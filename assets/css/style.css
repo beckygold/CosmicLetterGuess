@@ -1,0 +1,39 @@
+body {
+    background-image: url("../images/abstract-astronomy.jpg");
+    background-color: #00004d;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+
+header {
+    font-size: 35px;
+}
+
+div {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 23px;
+    font-weight: bold;
+    text-align: center;
+    width: 500px;
+    border: 5px solid white;
+    padding: 10px;
+    background-image: url("../images/wormhole.png");
+    /* background-color:#600080; */
+    background-color: #2aa22a;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.strokeme {
+	text-shadow:
+		-1px -1px 0 #000,
+		1px -1px 0 #000,
+		-1px 1px 0 #000,
+		1px 1px 0 #000;
+}
