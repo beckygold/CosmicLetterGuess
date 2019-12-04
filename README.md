@@ -1,4 +1,4 @@
-# Psychic-Game
+# Cosmic Letter Guess
 
 ## Description
 A cosmic-themed letter guessing game.
@@ -13,6 +13,8 @@ Navigate to the game by clicking [here](https://beckygold.github.io/CosmicLetter
 Once the page has loaded, begin guessing by pressing a letter key on your keyboard.
 
 The game will prompt you and inform you if your guess is correct or incorrect. Click 'Ok' or press the enter key to close the prompt box and continue playing. 
+
+![Example GIF](./assets/images/example.gif/)
 
 ## Technologies
 * HTML5
