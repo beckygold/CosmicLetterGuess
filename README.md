@@ -1,4 +1,7 @@
 # Cosmic Letter Guess
+![GitHub language count](https://img.shields.io/github/languages/count/beckygold/CosmicLetterGuess)
+![GitHub top language](https://img.shields.io/github/languages/top/beckygold/CosmicLetterGuess)
+![GitHub](https://img.shields.io/github/license/beckygold/CosmicLetterGuess)
 
 ## Description
 A cosmic-themed letter guessing game.
@@ -17,8 +20,8 @@ The game will prompt you and inform you if your guess is correct or incorrect. C
 ![Example GIF](./assets/images/example.gif/)
 
 ## Technologies
-* HTML5
-* CSS3
+* HTML
+* CSS
 * JavaScript
 
 ## Future Developments
